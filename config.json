@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscecrypt",
+        "uuid": 358852,
+        "checksum": "8nmd9e"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
